@@ -1,3 +1,5 @@
+<img src="image.png" alt="Example Image" title="An example image" width="1500" height="300" />
+
 #### Tableau : https://public.tableau.com/views/VehicleAnalysis_17107878820960/2?:language=zh-TW&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
 #### Data Source: https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data
